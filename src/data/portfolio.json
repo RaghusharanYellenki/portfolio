@@ -1,0 +1,381 @@
+{
+  "personalInfo": {
+    "name": "Raghusharan Yellenki",
+    "title": "Senior Software Engineer & AI Enthusiast",
+    "tagline": "🚀 Seasoned Flutter Developer | Android App Maestro | AI Explorer | Tech Innovator | Agent Technology Enthusiast",
+    "bio": "With over 3+ years of hands-on experience crafting cutting-edge Android mobile applications, I am a trailblazing Flutter Developer and emerging AI enthusiast, merging technical prowess with unwavering professionalism. Currently exploring the fascinating world of AI agents, autonomous systems, and intelligent automation technologies.",
+    "contact": {
+      "email": "yellenkiraghusharan@gmail.com",
+      "phone": "+916305438811",
+      "github": "https://github.com/RaghusharanYellenki",
+      "linkedin": "https://www.linkedin.com/in/yellenkiraghusharan/"
+    }
+  },
+  "expertise": {
+    "technical": [
+      "Flutter & Dart",
+      "React Native",
+      "Roku Development",
+      "Android Development",
+      "UI/UX Design",
+      "AI Integration",
+      "Machine Learning Concepts"
+    ],
+    "professional": [
+      "Firebase Integration",
+      "API Development",
+      "Agile Methodologies",
+      "Testing & Debugging",
+      "Version Control (Git)",
+      "AI Prompt Engineering",
+      "Intelligent System Design"
+    ],
+    "emerging": [
+      "AI Agents",
+      "Autonomous Systems",
+      "LangChain",
+      "OpenAI APIs",
+      "Conversational AI",
+      "Workflow Automation",
+      "Intelligent Assistants"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "ideyaLabs",
+      "period": "Jun 2024 - Present",
+      "description": "Promoted to Senior Software Engineer, leading innovative projects and mentoring team members while continuing to develop cutting-edge solutions. Currently exploring AI integration in mobile applications and researching agent-based architectures.",
+      "achievements": [
+        "Leading the development of a healthcare and fitness application using React Native",
+        "Implementing comprehensive fitness tracking features across mobile platforms",
+        "Ensuring unified user experience and optimal health monitoring",
+        "Mentoring junior developers and providing technical leadership",
+        "Researching AI agent integration for enhanced user experiences",
+        "Exploring intelligent automation within mobile application workflows"
+      ]
+    },
+    {
+      "title": "Software Engineer",
+      "company": "ideyaLabs",
+      "period": "Feb 2023 - Jun 2024",
+      "description": "Specialized in Flutter, React Native, and Roku development, leading innovative projects including UPI payment solutions and blockchain-powered retail applications.",
+      "achievements": [
+        "Developed secure payment applications using Flutter",
+        "Led blockchain integration with Metamask for Ethereum payments",
+        "Engineered OTT platforms across multiple devices",
+        "Developed ROKU channels using Brightscript"
+      ]
+    },
+    {
+      "title": "Content Creator",
+      "company": "LinkedIn",
+      "period": "Apr 2022 - Present",
+      "description": "Creating engaging technical content and tutorials for the developer community, with growing focus on AI technologies and agent systems.",
+      "achievements": [
+        "Producing educational content about mobile development",
+        "Sharing insights about Flutter, React Native, and modern development practices",
+        "Building a strong professional network",
+        "Contributing to the developer community",
+        "Creating content about AI integration in mobile apps",
+        "Sharing learnings about AI agents and automation technologies"
+      ]
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "SpeEdLabs",
+      "period": "Mar 2022 - Feb 2023",
+      "description": "Developed and maintained AI-powered educational platforms using Flutter.",
+      "achievements": [
+        "Implemented BLoC pattern for state management",
+        "Integrated payment gateways (Razorpay, Cashfree)",
+        "Managed deployment processes for staging and production",
+        "Integrated Zoom for live classes and enhanced user experience"
+      ]
+    },
+    {
+      "title": "Flutter Developer",
+      "company": "Freelance",
+      "period": "Mar 2021 - Feb 2022",
+      "description": "Developed mobile applications using Flutter for diverse clients globally.",
+      "achievements": [
+        "Created captivating UI/UX designs for enhanced user experience",
+        "Integrated secure payment gateways in mobile applications",
+        "Implemented Firebase push notifications",
+        "Managed end-to-end development processes"
+      ]
+    },
+    {
+      "title": "Student Intern",
+      "company": "Verzeo",
+      "period": "Apr 2021 - May 2021",
+      "description": "Completed comprehensive Flutter development internship.",
+      "achievements": [
+        "Developed a dynamic NEWS application with real-time updates",
+        "Implemented seamless navigation and user-friendly interface",
+        "Gained hands-on experience with Flutter development",
+        "Demonstrated quick learning in a fast-paced environment"
+      ]
+    }
+  ],
+  "education": {
+    "degree": "Bachelor's in Information Technology",
+    "institution": "Swami Vivekananda Institute of Technology",
+    "period": "2018-2022",
+    "gpa": "7.0",
+    "activities": [
+      "Basketball Team Member",
+      "Poster Presentation",
+      "Table Tennis"
+    ],
+    "highlights": [
+      "IT Principles",
+      "Programming Languages",
+      "System Architecture",
+      "Artificial Intelligence Fundamentals"
+    ]
+  },
+  "projects": [
+    {
+      "title": "🤖 AI Agent Exploration Project",
+      "period": "Dec 2024 - Present",
+      "company": "Personal Research",
+      "description": "Currently exploring and experimenting with AI agents, autonomous systems, and intelligent automation. Building proof-of-concepts for agent-based mobile applications and studying various AI frameworks and architectures.",
+      "techStack": ["Python", "LangChain", "OpenAI APIs", "Flutter", "AI/ML Libraries"],
+      "features": [
+        "Multi-agent system architecture research",
+        "Conversational AI integration experiments",
+        "Workflow automation prototypes",
+        "Intelligent task delegation systems",
+        "AI-powered mobile app enhancements",
+        "Learning about agent orchestration and coordination"
+      ]
+    },
+    {
+      "title": "🚛 Transportation & Logistics Application",
+      "period": "Nov 2024 - Present",
+      "company": "ideyaLabs",
+      "description": "Currently leading the development of a comprehensive driver dispatch and route management mobile application to streamline transportation operations. The app empowers drivers with real-time route details, shipment tracking, pickup & delivery management, and secure payment collection capabilities.",
+      "techStack": ["Flutter", "REST APIs", "Firebase", "Google Maps SDK", "Payment Gateway", "Real-time Updates"],
+      "features": [
+        "Dynamic route guidance with optimized daily travel routes",
+        "Comprehensive shipment processing with pickup and drop-off workflows",
+        "Digital payments and secure collection logging system",
+        "Live dispatch updates for seamless team communication",
+        "Real-time shipment status tracking and monitoring",
+        "End-to-end operational visibility for drivers and operations team",
+        "Reduced manual errors and improved operational efficiency"
+      ]
+    },
+    {
+      "title": "💪 Healthcare and Fitness Application",
+      "period": "Aug 2024 - Nov 2024",
+      "company": "ideyaLabs",
+      "description": "Spearheaded the development of a cutting-edge healthcare and fitness application with robust features like fitness tracking, designed for seamless operation across mobile platforms.",
+      "techStack": ["React Native", "JavaScript", "Jest", "UI/UX"],
+      "features": [
+        "Cross-platform compatibility (iOS & Android)",
+        "Comprehensive fitness tracking",
+        "Unit testing with Jest",
+        "Intuitive user interface"
+      ]
+    },
+    {
+      "title": "🎬 iStream - OTT Platform",
+      "period": "May 2023 - Jul 2024",
+      "company": "ideyaLabs",
+      "description": "End-to-End OTT Solutions provider offering video on demand (VOD), live streaming, monetization, CDN, and DRM services.",
+      "techStack": ["React Native", "Roku", "Brightscript", "XML", "JavaScript"],
+      "features": [
+        "Multi-platform streaming support",
+        "Content monetization",
+        "White-label platform",
+        "Live & on-demand streaming"
+      ]
+    },
+    {
+      "title": "🔗 iBaaS - Blockchain Solution",
+      "period": "Mar 2023 - Jun 2023",
+      "company": "ideyaLabs",
+      "description": "Future-ready web3 solution providing comprehensive blockchain and enterprise solutions for businesses.",
+      "techStack": ["Flutter", "Dart", "REST APIs", "Payment Gateways"],
+      "features": [
+        "Hyper Ledger integration",
+        "Enterprise portals",
+        "Cryptocurrency wallets",
+        "Secure payment processing"
+      ]
+    },
+    {
+      "title": "🛍️ iRetail - Blockchain Shopping",
+      "period": "Jun 2023",
+      "company": "ideyaLabs",
+      "description": "Decentralized shopping application employing DApps concept with Blockchain technology.",
+      "techStack": ["Flutter", "Dart", "Ethereum", "Metamask"],
+      "features": [
+        "Metamask integration",
+        "Ethereum payments",
+        "Decentralized architecture",
+        "Secure transactions"
+      ]
+    },
+    {
+      "title": "📚 Ecommerce Book Store",
+      "period": "Mar 2022 - Jun 2022",
+      "company": "SVIT",
+      "description": "Full-stack ecommerce platform for selling books, featuring secure authentication and payment processing.",
+      "techStack": ["React", "Flask", "SQLite3", "Styled-components"],
+      "features": [
+        "Secure authentication",
+        "Responsive design",
+        "Payment integration",
+        "Performance optimization"
+      ]
+    },
+    {
+      "title": "🎲 Dice Game",
+      "period": "Dec 2021",
+      "company": "SVIT",
+      "description": "Interactive web-based dice game developed using modern web technologies.",
+      "techStack": ["JavaScript", "React", "HTML5", "CSS3", "Node.js"],
+      "features": [
+        "Interactive gameplay",
+        "Real-time dice rolling",
+        "Kid-friendly interface",
+        "Responsive design"
+      ]
+    },
+    {
+      "title": "📰 NEWS Application",
+      "period": "May 2021 - Jun 2021",
+      "company": "SVIT",
+      "description": "Cross-platform news application built with Flutter, featuring real-time updates.",
+      "techStack": ["Flutter", "Dart", "Firebase", "NEWS API", "Razorpay"],
+      "features": [
+        "Real-time news updates",
+        "Firebase authentication",
+        "Payment integration",
+        "Cross-platform support"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Dart", "JavaScript", "Python", "Brightscript", "Java"],
+    "frameworks": ["Flutter", "React Native", "React JS", "Roku", "LangChain"],
+    "tools": [
+      "VS Code",
+      "Android Studio",
+      "Git, GitLab, Bitbucket",
+      "Jira, Slack",
+      "AI Development Tools",
+      "OpenAI Playground"
+    ],
+    "aiTechnologies": [
+      "OpenAI APIs",
+      "AI Agents",
+      "Prompt Engineering",
+      "Conversational AI",
+      "Machine Learning Integration",
+      "Autonomous Systems"
+    ]
+  },
+  "certifications": [
+    {
+      "title": "AI Mastery - Prompt Engineer",
+      "org": "Be10x",
+      "date": "May 2024",
+      "expires": "Dec 2030",
+      "id": "AI MASTERY PROGRAM",
+      "description": "Completed the AI Tools Mastery Program, mastering AI-driven prompt writing, meeting efficiency, data analytics, presentation creation, research, job hunting, productivity, side hustles, personal branding, and coding.",
+      "skills": [
+        "Prompt Engineering",
+        "AI Prompting",
+        "Pro Tools",
+        "Prompt Design",
+        "Generative AI Tools",
+        "Multimodal Prompting",
+        "AI Strategy"
+      ]
+    },
+    {
+      "title": "Google Flutter & Dart",
+      "org": "The Digital Adda",
+      "date": "Jan 2024",
+      "id": "DA/GFD/23/12291",
+      "skills": [
+        "Flutter",
+        "Dart",
+        "Mobile Application Development",
+        "User Interface Design",
+        "Mobile Applications"
+      ]
+    },
+    {
+      "title": "Web Development Bootcamp",
+      "org": "Udemy",
+      "date": "Jun 2023",
+      "id": "UC-ceb80272-4bdc-499f-9d07-dff1210693cc",
+      "skills": [
+        "Web Development",
+        "JavaScript",
+        "HTML5",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "REST APIs"
+      ]
+    },
+    {
+      "title": "Android App Development",
+      "org": "Verzeo",
+      "date": "Aug 2021",
+      "id": "1908406741"
+    },
+    {
+      "title": "Cloud Computing Essentials (AWS)",
+      "org": "LetsUpgrade",
+      "date": "May 2021",
+      "id": "LUCCO0421A033"
+    },
+    {
+      "title": "Digital Marketing",
+      "org": "Google Digital Garage",
+      "date": "Mar 2021",
+      "id": "9UG9BC2Z5"
+    }
+  ],
+  "interests": {
+    "personal": [
+      "🏍️ Riding Bike",
+      "🎵 Music",
+      "👨‍🍳 Cooking"
+    ],
+    "professional": [
+      "💻 Programming",
+      "📚 Learning new tech",
+      "🎁 Goodies",
+      "📱 Gadgets",
+      "🤖 AI & Machine Learning",
+      "🧠 AI Agents & Autonomous Systems",
+      "⚡ Automation & Intelligent Workflows",
+      "🔬 AI Research & Experimentation"
+    ]
+  },
+  "currentFocus": {
+    "learningGoals": [
+      "AI Agent Architecture and Design Patterns",
+      "Multi-Agent Systems and Coordination",
+      "LangChain and AI Framework Development",
+      "Autonomous Task Execution Systems",
+      "AI Integration in Mobile Applications",
+      "Conversational AI and Natural Language Processing"
+    ],
+    "explorationAreas": [
+      "Agent-based software architecture",
+      "Intelligent workflow automation",
+      "AI-powered mobile app features",
+      "Autonomous system design principles",
+      "Human-AI interaction patterns"
+    ]
+  }
+}
